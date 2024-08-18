@@ -1,0 +1,11 @@
+.container {
+  padding: 0 50px;
+}
+
+.row {
+  padding: 5px 0;
+}
+
+canvas {
+  border: 2px solid black;
+}
